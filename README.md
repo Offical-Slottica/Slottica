@@ -1,6 +1,6 @@
 # <a href="https://tinyurl.com/3kj2yj2s">Slottica.com</a>
 
-# <a href="https://tinyurl.com/3kj2yj2s"CLICK START</a>
+# <a href="https://tinyurl.com/3kj2yj2s">CLICK START</a>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
